@@ -75,7 +75,7 @@ Système de prise de rendez-vous médical avec rappels automatiques
 
 ## 📫 Me contacter
 
-- ✉️ **Email :** [viviane.nyakou@example.com](mailto:viviane.nyakou@example.com)  
+- ✉️ **Email :** [vivianenyakou02@gmail.com](mailto:vivianenyakou02@gmail.com)  
 - 💼 **LinkedIn :** [linkedin.com/in/viviane-nyakou](https://linkedin.com/in/viviane-nyakou)  
 - 🌐 **Portfolio :** (à venir)
 
